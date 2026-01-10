@@ -1,5 +1,11 @@
 # Neural Machine Translation System: English-to-Russian
 
+### 💖 Support My GITHUB Open Projects
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-EA4AAA)](https://github.com/sponsors/DominiqueLoyer)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00)](https://www.buymeacoffee.com/dominiqueloyer)
+
+
 Complete implementation of English-to-Russian neural machine translation system using attention mechanisms and transformer architectures.
 
 ## Overview
@@ -27,6 +33,20 @@ This project develops and evaluates a neural machine translation (NMT) system fo
 ```bash
 pip install torch transformers datasets evaluate
 ```
+Dataset
+	•	Source: OpenParallel opusbooks corpus
+	•	Language Pair: English → Russian
+	•	Training Samples: 10,000+
+	•	Format: JSON with ‘src’ and ‘tgt’ fields
+Architecture
+	•	Model: Sequence-to-Sequence with Transformer encoder-decoder
+	•	Encoder: Multi-head self-attention (12 heads)
+	•	Decoder: Masked multi-head attention with cross-attention
+	•	Vocabulary: BPE tokenization (32k tokens)
+Related Publications
+	•	Development and Evaluation of an English-to-Russian Neural Machine Translation System
+	•	Developpement et Evaluation d’un Systeme de Traduction Automatique Neuronale
+	•	Systeme de traduction automatique neuronal du russe vers l’anglais (Conference)
 
 ## Hugging Face Model Card
 
