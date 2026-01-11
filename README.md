@@ -4,6 +4,7 @@
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-EA4AAA)](https://github.com/sponsors/DominiqueLoyer)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00)](https://www.buymeacoffee.com/dominiqueloyer)
+[![DOI](https://zenodo.org/badge/1131857473.svg)](https://doi.org/10.5281/zenodo.18210211)
 
 
 Complete implementation of English-to-Russian neural machine translation system using attention mechanisms and transformer architectures.
