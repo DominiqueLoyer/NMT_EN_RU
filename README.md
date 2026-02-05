@@ -104,7 +104,8 @@ Contributions welcome! Areas of interest:
 Bleu Score
 ## Bleu Score
 
-![BLEU score EN–FR avec améliorations](scorebleu31_enfr_avecAméliorations_22mai.png)
+<img width="1265" height="801" alt="scorebleu31_enfr_avecAméliorations_22mai" src="https://github.com/user-attachments/assets/b087a785-0f58-4f6d-88fb-a7e8c1475078" />
+ai.png)
 
 
 
