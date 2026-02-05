@@ -102,6 +102,9 @@ Contributions welcome! Areas of interest:
 
 ---
 Bleu Score
-![Score BLEU EN–FR avec améliorations (22 mai)](scorebleu31_enfr_avecAméliorations_22mai.png)
+## Bleu Score
+
+![BLEU score EN–FR avec améliorations](scorebleu31_enfr_avecAméliorations_22mai.png)
+
 
 
