@@ -102,5 +102,5 @@ Contributions welcome! Areas of interest:
 
 ---
 Bleu Score
-![bleu](https://github.com/DominiqueLoyer/NMT_EN_RU/scorebleu31_enfr_avecAméliorations_22mai.png)
+![https://github.com/DominiqueLoyer/NMT_EN_RU/scorebleu31_enfr_avecAméliorations_22mai.png](https://github.com/DominiqueLoyer/NMT_EN_RU/scorebleu31_enfr_avecAméliorations_22mai.png)
 
